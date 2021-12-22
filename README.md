@@ -26,8 +26,11 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
 
 ### About Me
 I am from Canada. I know node, python, and currently learning Rust.
+
 I do ethical hacking
+
 You can reach me on Telegram
+
 https://telegram.me/Drexy2
   
 -----
