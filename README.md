@@ -10,27 +10,32 @@
 
 -----
 
-Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
-
 </details>
 
 <details><summary>Profile Views</summary>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fi6c&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&edge_flat=false" /></a>
 </details>
 
-<details><summary>Statistics of this game so far</summary>
-  <img src="https://playground.aoaoao.me/Api/GBStatistic" />
-</details>
-
 -----
-
 ### About Me
-I am from Canada. I know node, python, and currently learning Rust.
+I am i6c also known as Drexy on multiple platforms. I am knowledgeable in many programming languages mentioned earlier. I have been programming for 7 years, starting off with Lua in ROBLOX, then moving onto Scratch in school, and from there learned Python for years. After I became somewhat fluent in Python, I began to learn other programming languages. I've signed up to hacking forums for years the first one being se7ensins to learn more about Horizon and other related tools that were used to modify Xbox 360 game files. I have played video games for most of my life, the first game I remember playing would be The Sims for the original Xbox. The first game that I actually got into would be Halo 2 for the original Xbox. After that I started playing alot of Call of Duty Modern Warfare 3. That was probably the game I played the most after I got a Xbox 360 for Christmas in about 2013 or 2012. I also played alot of CS:GO as a kid back when it costed $20. There has been multiple times where I have been scammed by games, for example I spent $40 on PUBG when it was really popular, then a few years later it became free for gold and then it became free altogether. I've also been scammed by fortnite item shop so much times. But I will keep this short because I am just yapping at this point
 
-I do ethical hacking
+## I know
+Python
 
-You can reach me on Telegram
+JavaScript
 
-https://telegram.me/Drexy2
-  
+## I am still learning 
+C#
+
+C++
+
+Lua
+
+Rust
+
+🍁 Want to support me: [Buy me a ~~coffee~~ half gram of weed!](https://www.buymeacoffee.com/drexy)
+
+📫 How to reach me: You can contact me on [telegram](https://telegram.me/promethazine_hcl) or with discord for a [faster response](https://discord.gg/PVJPsdzp)
+
 -----
