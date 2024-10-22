@@ -1,7 +1,5 @@
 ### 👋 Hi there
 
------
-
 </details>
 
 <details><summary>Profile Views</summary>
