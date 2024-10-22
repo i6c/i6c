@@ -2,7 +2,7 @@
 
 </details>
 
-<details><summary>Profile Views</summary>
+<details><summary>Profile Views(Today/Ever)</summary>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fi6c&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&edge_flat=false" /></a>
 </details>
 
